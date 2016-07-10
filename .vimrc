@@ -7,3 +7,4 @@ set shiftwidth=2
 set tabstop=2
 " So you can autocomplete with dashes
 set iskeyword+=\-
+" Sooo...
