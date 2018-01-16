@@ -12,6 +12,7 @@ nmap , <
 nmap . >
 " Make netrw <enter> open the file in the most recent window
 let g:netrw_browse_split = 4
+let g:netrw_banner=0
 " for vim wiki
 set nocompatible
 filetype plugin on
