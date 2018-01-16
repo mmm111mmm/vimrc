@@ -10,6 +10,8 @@ set iskeyword+=\-
 " Remapping window split resizing so we don't press shift
 nmap , <
 nmap . >
+" Make netrw <enter> open the file in the most recent window
+let g:netrw_browse_split = 4
 " for vim wiki
 set nocompatible
 filetype plugin on
